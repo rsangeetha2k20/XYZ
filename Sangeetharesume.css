@@ -1,0 +1,33 @@
+img
+{
+width:125px;
+height:150px;
+object-position:right-top;
+Float:right;
+border: 1px solid red;
+border-radius:20px;
+margin-right: 20px;
+margin-left:10px;
+}
+table
+{
+border:1px solid violet;
+text-align:center;
+padding:2px;
+background-color:;
+}
+th
+{
+background-color:#28d6eb;
+color: black;
+}
+tr
+{
+background-color:#cbec00;
+}
+th:hover
+{
+background-color:blue;
+}
+
+

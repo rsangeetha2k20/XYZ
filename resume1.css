@@ -1,0 +1,36 @@
+img
+{
+float:right;
+width:150 px;
+height:150 px;
+}
+
+html
+{
+margin:10 px 0 0 20px;
+}
+
+.col1
+{
+float:left;
+width:30%;
+}
+
+span
+{
+float:right;
+}
+
+.declare
+{
+font-size: 20px;
+text-align:center;
+text-decoration:underline;
+}
+h2
+{
+font-size:20px;
+font-family: sans-serif;
+color:white;
+background:black;
+}
